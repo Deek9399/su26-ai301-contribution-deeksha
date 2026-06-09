@@ -3,13 +3,13 @@
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** Deeksha Tiwari 
 **Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
+I chose this issue because it's a well-scoped UX bug that directly impacts user trust — when SimpleFIN gets Cloudflare rate-limited, the app silently prompts users to re-enter credentials instead of explaining what's actually wrong. The fix involves detecting the error state and surfacing a clear warning in the UI, which aligns directly with my React and TypeScript experience. The reproduction steps are detailed and the expected vs actual behavior is clearly defined, making this a strong first contribution.
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
 
 ---
 
