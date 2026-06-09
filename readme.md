@@ -2,7 +2,7 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** Deeksha Tiwari 
-**Issue:** [GitHub issue link]  
+**Issue:** [GitHub issue link](https://github.com/actualbudget/actual/issues/7785)  
 **Status:** Phase I Complete
 
 ---
